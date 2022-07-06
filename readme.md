@@ -1,4 +1,4 @@
 # Hello World
 | Task  | status  |
 |---|---|
-| eat breakfast  | 	:white_large_square Eat Breakfast  |
+| eat breakfast  | 	<ul><li>[x] item1</li><li>[ ] Eat Breakfast</li></ul>   |
