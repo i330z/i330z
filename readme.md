@@ -1,4 +1,4 @@
 # Hello World
 | Task  | status  |
 |---|---|
-| eat breakfast  | - [X] Eat Breakfast  |
+| eat breakfast  | 	:white_large_square Eat Breakfast  |
