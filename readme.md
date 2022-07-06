@@ -7,3 +7,8 @@
 | Unchecked | Checked |
 | --------- | ------- |
 | &#9744;   | &#9745; |
+
+
+| Unchecked | Checked |
+| --------- | ------- |
+|  :x:  | :heavy_check_mark: |
