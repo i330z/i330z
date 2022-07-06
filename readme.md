@@ -12,3 +12,8 @@
 | Unchecked | Checked |
 | --------- | ------- |
 |  :x:  | :heavy_check_mark: |
+
+
+| Unchecked | Checked |
+| --------- | ------- |
+| &cross;   | &check; |
